@@ -95,8 +95,8 @@ Nyxie, Stixyie tarafından özel olarak tasarlanan son nesil bir Protogen AI cha
 
 ### 1. 📥 Depoyu Klonlama
 ```bash
-git clone https://github.com/Stixyie/Nyxie-Protogen-Chatbot-Telegram
-cd Nyxie-Protogen-Chatbot-Telegram
+git clone https://github.com/Stixyie/Nyxie-Protogen-Chatbot-Telegram-v2
+cd Nyxie-Protogen-Chatbot-Telegram-v2
 ```
 
 ### 2. 🌐 Sanal Ortam Oluşturma
@@ -148,7 +148,7 @@ pip install -r requirements.txt
 4. Pull Request açın
 
 ## 📄 Lisans
-🏛️ MIT Lisansı altında yayınlanmıştır
+🏛️ GPL-3.0 Lisansı altında yayınlanmıştır
 
 ## 👥 Geliştirici
 **Stixyie** tarafından 💖 ile geliştirilmiştir
