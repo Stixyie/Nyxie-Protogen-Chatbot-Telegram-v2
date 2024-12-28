@@ -119,7 +119,7 @@ pip install -r requirements.txt
 
 ### 💬 Temel Kullanım
 - Botla doğal dilde konuşun
-- Dil ve zaman ayarlarını istedğiniz anda değiştirebilirsiniz
+- Dil ve zaman ayarlarını istediğiniz anda değiştirebilirsiniz
 - Metin, görüntü ve video gönderebilirsiniz
 
 ### 🌈 Örnek Senaryolar
